@@ -1,12 +1,12 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 2: Modelo de Información y Diagrama de Contexto
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+_14 de Febrero del 2026_
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Bryam Diaz
+- Jose Guzman
+- Juan Abril
 
 ## 🧠 Actividades realizadas en clase
 
@@ -33,4 +33,4 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 ---
 
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._
+_Este documento resume el trabajo colaborativo realizado durante la sesión del taller 2 en el curso AREM - Universidad de La Sabana._
