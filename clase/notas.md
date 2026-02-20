@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# 🗒️ Registro de Trabajo en Clase - Taller 2
-
-## 📆 Fecha de la sesión
-14 de febrero de 2026
-
-## 👥 Integrantes presentes
-- Bryam Diaz
-- Juan Abril
-- Hector Guzman
-=======
 # 🗒️ Registro de Trabajo en Clase - Taller 2: Modelo de Información y Diagrama de Contexto
 
 ## 📆 Fecha de la sesión
@@ -18,7 +7,6 @@ _14 de Febrero del 2026_
 - Bryam Diaz
 - Jose Guzman
 - Juan Abril
->>>>>>> bed5cd00296aaac4476dcc5e2d58a19a27a245fa
 
 ## 🧠 Actividades realizadas en clase
 
