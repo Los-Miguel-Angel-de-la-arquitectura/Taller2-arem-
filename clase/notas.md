@@ -30,6 +30,14 @@ Durante la sesión se realizaron las siguientes actividades:
 
 > Archivo fuente: [contexto-borrador.drawio](contexto-borrador.drawio)
 
+## 🧩 Boceto Final del modelo
+
+### Modelo Entidad-Relación 
+
+![Modelo ER Final - Clínica Salud Viva](modelo-final-er.drawio.png)
+
+> Archivo fuente: [modelo-final-er.drawio](modelo-final-er.drawio)
+
 ## 🔁 Tareas definidas para complementar el taller
 
 Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
