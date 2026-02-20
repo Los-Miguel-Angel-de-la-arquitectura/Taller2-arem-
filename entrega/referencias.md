@@ -3,7 +3,7 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+_Taller 2: Modelo de Información y Diagrama de Contexto_
 
 ---
 

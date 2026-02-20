@@ -1,12 +1,12 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-_Taller X - [Nombre completo del taller]_
+_Taller 2: Modelo de Información y Diagrama de Contexto_
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Juan Abril (Juan-Abril21)
+- Bryam Diaz (bryamDigar)
+- Jose Guzman (joseph8884)
 
 ## 🧠 Descripción general del trabajo
 Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
@@ -42,4 +42,4 @@ Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario
 
 ---
 
-_Este documento hace parte de la entrega del taller X del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
+_Este documento hace parte de la entrega del taller 2 del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
