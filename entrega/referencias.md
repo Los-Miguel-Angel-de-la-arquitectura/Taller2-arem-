@@ -5,15 +5,6 @@ Este archivo contiene las fuentes consultadas para el desarrollo del taller, tan
 ## 🔖 Taller
 _Taller 2: Modelo de Información y Diagrama de Contexto_
 
-
----
-
-## 📌 Recomendaciones
-
-- Usa formato APA o IEEE para citar.
-- No incluyas fuentes como Wikipedia si hay mejores alternativas.
-- Si usas inteligencia artificial para redactar o investigar, cítalo como "Fuente asistida por IA: ChatGPT, julio 2025".
-
 ---
 
 ## Investigación breve: ERD y diagramas de contexto (resumen)

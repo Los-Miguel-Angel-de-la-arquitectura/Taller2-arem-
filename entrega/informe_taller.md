@@ -2,6 +2,7 @@
 
 ## 🔖 Nombre del Taller
 _Taller 2: Modelo de Información y Diagrama de Contexto_
+link del diagrama de dominio:
 https://dbdiagram.io/d/6999240bbd82f5fce25abad3
 ## 👥 Integrantes del equipo
 - Juan Abril (Juan-Abril21)
@@ -58,22 +59,5 @@ El diagrama final está incluido en los archivos de la entrega y refleja las dec
 | Motor_Alertas       | Componente lógico | Servicio que evalúa reglas y genera `REGISTRO_ALERTA` | Plataforma de notificaciones |
 | Consolidador        | Proceso | Módulo que agrupa `DETALLE_NOVEDAD` en `PROCESO_CONSOLIDACION` | Data Engineering |
 
-## 🔍 Investigación complementaria
-### Tema investigado:
-ERD y diagramas de contexto aplicados a Ingeniería de Datos y Arquitectura Empresarial
-
-### Resumen:
-
-En la investigación me concentré en buenas prácticas para modelado lógico (ERD) y el uso del diagrama de contexto para definir límites del sistema y flujos de información. Un ERD bien diseñado ayuda a identificar claves primarias y foráneas, normalizar datos cuando conviene y preparar la base para pipelines ETL. El diagrama de contexto, por su parte, clarifica actores, fuentes externas y consumidores, lo que es esencial al diseñar integraciones entre repositorios y motores de procesamiento.
-
-Para el caso práctico, estas dos vistas (ERD + contexto) nos permitieron decidir dónde mantener metadatos de origen, cómo parametrizar reglas de corte y qué eventos deben generar alertas, facilitando además la planificación de transformaciones necesarias en los procesos de ingesta y consolidación.
-
-Referencias y enlaces útiles se listan en el documento de referencias complementarias.
-
-## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
-
----
 
 _Este documento hace parte de la entrega del taller 2 del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
