@@ -20,17 +20,4 @@ Las siguientes fuentes son prácticas y accesibles para profundizar en conceptos
 5. Kleppmann, M. "Designing Data-Intensive Applications" — conceptos para arquitecturas de datos robustas (libro). https://dataintensive.net/  
 6. AWS Architecture Center. "Building Data Lakes on AWS" — patrones prácticos para ingesta y gobernanza de datos. https://aws.amazon.com/architecture/data-lake-formation/  
 
-### Recomendación de uso
 
-
----
-
-## Fuentes adicionales y herramientas prácticas
-
-- UiPath. "RPA for Business Processes" — guía y casos de uso de automatización robótica para tareas repetitivas. https://www.uipath.com/solutions/automation
-- Apache Airflow. "Airflow: Programar y monitorizar flujos de trabajo" — orquestador recomendado para job scheduling en pipelines de datos. https://airflow.apache.org/
-- Apache NiFi. "NiFi Overview" — ingestión y flujo de datos en tiempo real con trazabilidad. https://nifi.apache.org/
-- Kimball, R. "The Data Warehouse Toolkit" — técnicas para modelado dimensional útiles en reporting y consolidación. https://www.kimballgroup.com/
-
-
----
